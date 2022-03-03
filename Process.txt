@@ -1,0 +1,10 @@
+1. create store.js
+2. create empty rootReducer.
+3. add Provider in index.js main component.
+4. Create action type and action function.
+5. create reducer
+6. Add reducer to rootreducer and check if we can see state
+7. connecting the component to store --> using connect function
+8. mapStateToProps is used for required state.
+9. mapDispatchToProps is used for dispatch actions.
+
